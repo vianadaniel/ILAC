@@ -1,0 +1,17 @@
+
+Scan = Ler
+
+burst = explosão
+
+within = dentro
+prior = anterior
+among = entre
+towards = para
+surveillance = vigilância
+disclosure = discuss
+intricate = intrincado
+inner = interno
+
+Reading Match Heading 
+
+https://www.youtube.com/watch?v=DWmo6nbhP0M
