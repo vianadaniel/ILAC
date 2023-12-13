@@ -1,0 +1,95 @@
+advent = chegada
+
+"The advent of technology has revolutionized the way we communicate and access information."
+"As we eagerly anticipate the advent of the holiday season, let's cherish moments with loved ones."
+
+confrontation = confrontação
+
+"The heated confrontation between the two leaders highlighted the tension in international relations."
+"Avoiding a confrontation, they decided to resolve their differences through peaceful dialogue."
+
+craft = artesanato
+
+"She spent the weekend engaged in her favorite craft, creating beautiful handcrafted jewelry."
+"The artisan showcased her woodworking craft at the local fair, drawing admiration for her skill and creativity."
+
+dissect = dissecar
+
+"The scientist dissected the human body to reveal the inner workings of his brain."
+"In biology class, students were asked to dissect a frog to study its internal anatomy."
+"The detective began to dissect the evidence, carefully analyzing each detail to solve the complex case."
+
+Elite = elite
+
+"The elite members of the society were granted exclusive access to the prestigious event."
+"Only the elite athletes, who had demonstrated exceptional skill and dedication, were chosen to represent their country in the international competition."
+
+idealize = idealizar
+
+"In her idealized vision of the future, a harmonious world where people coexist peacefully was the ultimate goal."
+"The artist's painting was not a realistic portrayal but rather an idealized representation of a serene countryside."
+
+intelligible = intelligível
+
+"His speech was so mumbled that it was barely intelligible, leaving the audience confused."
+"The professor explained the complex theory in a way that made it intelligible even to those without a background in the subject."
+
+mentorship = mentoria
+
+"The mentorship I received from my senior colleague was invaluable, guiding me through the challenges of my early career."
+"She sought mentorship from a seasoned entrepreneur to gain insights into business strategies and leadership skills."
+
+pioneer = pioneiro
+
+"Marie Curie was a pioneer in the field of radioactivity, making groundbreaking discoveries that laid the foundation for modern nuclear physics."
+"Steve Jobs helped pioneer the personal computer industry with the introduction of the Apple Macintosh in 1984."
+
+scandalous = scandalo
+
+"The tabloid newspaper published scandalous stories about the private lives of celebrities, attracting widespread attention."
+"The political scandal revealed a series of scandalous actions, leading to public outrage and calls for accountability."
+
+scenario = cenário
+
+"In the business meeting, we discussed various scenarios for market expansion and potential challenges."
+"Emergency responders regularly train for different disaster scenarios to ensure preparedness for a wide range of situations."
+
+ensure = garantir
+
+secular = not religious 
+
+"The secular music festival attracts people from diverse backgrounds, celebrating various genres and styles."
+"In a secular society, individuals have the freedom to practice any religion or none at all without interference from the government."
+
+
+synthesize = sintetizar
+
+"Scientists aim to synthesize new materials with enhanced properties through innovative research and development."
+"In her essay, she skillfully synthesized various viewpoints to present a comprehensive analysis of the topic."
+
+upheaval = turbulento
+
+"The political upheaval in the region led to widespread protests and social unrest."
+"The economic upheaval caused by the financial crisis had a profound impact on businesses and individuals alike."
+
+usher in = iniciar algo novo 
+
+"The new technological advancements are expected to usher in a era of unprecedented innovation."
+"The election of the new leader is seen as a pivotal moment that will usher in a period of political transformation."
+
+virtue = virtude
+
+"Honesty, integrity, and compassion are often considered virtues that contribute to a person's character."
+"The ancient philosopher emphasized the importance of cultivating virtues such as courage and wisdom for a fulfilling and meaningful life."
+
+yearning = desejo
+
+"In his eyes, there was a deep yearning for adventure and exploration."
+"The melancholic melody of the song evoked a sense of yearning, capturing the emotions of longing and nostalgia."
+
+
+
+noun = substantivo
+verb = verbo
+adj = adjetivo
+adv = adverbio
