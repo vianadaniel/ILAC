@@ -95,8 +95,99 @@ yearning = desejo
 "The melancholic melody of the song evoked a sense of yearning, capturing the emotions of longing and nostalgia."
 
 
+aspiration = instiparçao 
+diligently = cuidadosamente
 
-noun = substantivo
-verb = verbo
-adj = adjetivo
-adv = adverbio
+Her aspiration to become a doctor motivated her to study diligently throughout her school years.
+The company's aspiration to lead the market in innovation drove their investment in research and development.
+
+
+compel = impor
+convict = condenado
+
+The evidence was so compelling that the jury had no choice but to convict the defendant.
+
+
+empathy = empatia
+
+Her empathy towards others made her a trusted confidante among her friends, as she always listened and understood their problems without judgment.
+
+
+endeavor = esforço
+
+He endeavored to learn a new language before his trip to France.
+
+
+descend = descendente 
+
+The hikers began to descend the mountain as the sun started to set.
+
+The traditions of the festival descend from ancient customs practiced by our ancestors.
+
+
+despise = desprezo
+
+I despise the taste of liver; I can't stand it.
+
+She despised the way he treated others with disrespect.
+
+
+divergence = divergência
+
+The divergence in their political views led to heated debates at the dinner table.
+
+
+fanciful   = fantástico
+
+The fanciful story of the missing children and the family'sDisplayStyle
+
+
+flaw = defeito
+
+The flaw in the design of the building made it difficult to maintain its integrity.
+
+
+
+flee = fugir
+
+The police have fled from the scene of the incident.
+
+
+florid = florido
+
+The flowers of the garden have been flowers of the garden.
+
+
+hybrid = híbrido
+
+The hybrid cars have been hybrid cars.
+
+
+ignorance = ignorancia
+
+The lack of awareness of the consequences of the incident
+
+His ignorance of the subject was evident when he tried to explain the concept.
+
+The teacher emphasized the importance of education in combating ignorance.
+
+
+inherent = inerente
+
+The risks were inherent in the nature of the job, but they were managed through careful planning.
+
+The company's success was due to the inherent quality of its products.
+
+
+wimps = covarde
+
+
+dreadfu l = muito ruim
+
+The weather was dreadful, with heavy rain and strong winds all day.
+
+
+
+
+
+

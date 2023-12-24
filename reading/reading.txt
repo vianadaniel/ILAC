@@ -1,0 +1,12 @@
+Food Preservation
+
+6 - true
+7 - false
+8 - not given
+9 -  not given 
+
+1 - f
+2 - b
+3 - g
+4 - E
+5 - b
