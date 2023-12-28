@@ -127,7 +127,7 @@ The traditions of the festival descend from ancient customs practiced by our anc
 
 despise = desprezo
 
-I despise the taste of liver; I can't stand it.
+I despise the taste of oliver I can't stand it.
 
 She despised the way he treated others with disrespect.
 
@@ -155,7 +155,7 @@ The police have fled from the scene of the incident.
 
 florid = florido
 
-The flowers of the garden have been flowers of the garden.
+The flowers of the garden have been florid of the garden.
 
 
 hybrid = híbrido

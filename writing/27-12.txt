@@ -1,0 +1,17 @@
+Writing task 1
+
+The bar chart shows the relationship between how people use their smartphones across three age groups, 18-29, 30-49 and 50 plus.
+The uses includes avoid being bored, avoid others around you, find a good way to get somewhere, send text messages,
+search internet and watch videos.
+"Avoid being bored" is the most common use among users aged 18-29, with 93%, followed by the 30-49 age group with 82%, 
+and the 50-plus age group with 55%."Avoid others around you" is commonly use for the aged 18-29 age group with 47%,
+followed by 30-49 age group with 21% and 50-plus with 15%.
+"Find a good way to get somewhere" is  commonly use among users aged 18-29, with 57%, followed by 
+the 30-49 age group with 37%, and the 50-plus age group with 33%.
+"Send text messages" is the least common use among users aged 50-plus, with 92%,
+followed by the 30-49 age group with 98% and the 18-29 age group with 100%, "Search internet" looks like the same thing
+for the 18-29 age group with 97%, 30-49 age group with 90% and 50-plus age group with 80%.
+At the least "watch videos" is the most common use among users aged 18-29, with 75%, followed by
+the 30-49 age group with 46% and the 50-plus age group with 31%.
+It seems that the chart shows a consistent pattern in smartphone usage, where younger people use them more and older people use them less
+It does not matter the uses.
